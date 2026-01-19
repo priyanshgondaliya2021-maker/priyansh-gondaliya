@@ -13,8 +13,8 @@ I am passionate about building impactful software solutions, learning new techno
 - 🎓 Student & Technology Enthusiast  
 - 💻 Interested in **Web Development, Software Development & IoT Projects**  
 - 🌱 Currently learning **Advanced Web Technologies & Backend Development**  
-- 🔍 Curious about **AI, IoT, Smart Systems & Automation**  
-- 🤝 Open to collaboration on innovative and real-world projects  
+- 🔍 Curious about **AI, IoT, Smart Systems & Automation, VLSI**  
+- 🤝 Open to collaboration on innovative and real-world projects   
 
 ---
 
@@ -75,21 +75,11 @@ Here are some of the projects I have worked on:
 
 👉 Check out my repositories to explore these projects in detail!
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshGondaliya&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshGondaliya&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me  
 
 - 💼 GitHub: [https://github.com/PriyanshGondaliya](https://github.com/PriyanshGondaliya)  
-- 📧 Email: *Add your email here*  
-- 🔗 LinkedIn: *Add your LinkedIn profile here*  
+- 📧 Email: *priyanshgondaliya2021@gmail.com*  
+- 🔗 LinkedIn: *Priyansh Gondaliya *  
 
 ---
 
